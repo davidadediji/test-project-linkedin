@@ -8,9 +8,9 @@
 
 ### Setup
 
-To setup the whole project use:
+To setup the whole project and use dependencies use command:
 ```
-npm init
+npm install
 ```
 Get Chrome driver installed globally with the command:
 ```
